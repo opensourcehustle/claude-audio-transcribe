@@ -7,7 +7,7 @@ A Claude Code skill for transcribing audio files to text using Amazon Transcribe
 Clone this repo into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/claude-audio-transcribe.git ~/.claude/skills/audio-transcribe
+git clone https://github.com/opensourcehustle/claude-audio-transcribe.git ~/.claude/skills/audio-transcribe
 ```
 
 ## Usage
